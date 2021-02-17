@@ -19,17 +19,9 @@
 
 欢迎关注作者的公众号，可以直接后台留言。
 
-![](docs/contact/wechat-hollis.jpg)
+![](contact/wechat-hollis.jpg)
 
 *公众号后台回复："成神导图"，即可获取《Java工程师成神之路最新版思维导图》* 
-
-
-### 在线阅读地址
-
-GitHub Pages 完整阅读：[进入](https://hollischuang.github.io/toBeTopJavaer/)
-
-Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) (国内访问速度较快)
-
 
 ### 关于作者
 
@@ -52,3 +44,13 @@ Hollis，阿里巴巴技术专家，51CTO专栏作家，CSDN博客专家，掘�
 请直接在[GitHub](https://github.com/hollischuang/toBeTopJavaer)上以issue或者PR的形式提出
 
 如果本项目中的内容侵犯了您的任何权益，欢迎通过邮箱(hollischuang@gmail)与我联系
+
+### 在线阅读地址
+
+GitHub Pages 完整阅读：[进入](https://hollischuang.github.io/toBeTopJavaer/)
+
+Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) (国内访问速度较快)
+
+
+
+### <a href="#/menu?id=目录">开始阅读</a></p></div><div class="mask"></div></section>
